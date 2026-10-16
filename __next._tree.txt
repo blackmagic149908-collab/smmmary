@@ -1,0 +1,13 @@
+:HL["/_next/static/chunks/0oou5qmk8vk_i.css","style"]
+:HL["/assets/maria-amirova.jpg","image"]
+:HL["/assets/kareliagid-logo.png","image"]
+:HL["/assets/totty-toys-logo.png","image"]
+:HL["/assets/gorbilet-logo.svg","image"]
+:HL["/assets/lak-theatre-performance.jpg","image"]
+:HL["/assets/karelia-vk-709k.png","image"]
+:HL["/assets/karelia-vk-210k.png","image"]
+:HL["/assets/karelia-vk-197k.png","image"]
+:HL["/assets/karelia-instagram-teriberka.jpg","image"]
+:HL["/assets/karelia-instagram-whales.jpg","image"]
+:HL["/assets/karelia-instagram-ruskeala.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"cgwb1JWEbH7-V9l2Dn4O2"}
